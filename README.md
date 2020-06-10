@@ -7,5 +7,6 @@ practice and learning react-hooks
 - useCallBack()
 - useRef()
 - useReducer()
+- useMemo()
 
 #### custom hooks
